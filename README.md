@@ -18,11 +18,16 @@
 
 ---
 
+
 ## 📸 Screenshots
 
-| Dashboard | Card Example |
-|-----------|-------------|
-| ![Dashboard](assets/images/dashboard_card_image.png) | ![Background](assets/images/background.png) |
+| Dashboard | Shop | Products |
+|-----------|------|----------|
+| ![Dashboard](screenshots/dashboard.png) | ![Shop](screenshots/shop.png) | ![Products](screenshots/products.png) |
+
+| Categories | Checkout | User Profile |
+|------------|----------|--------------|
+| ![Categories](screenshots/categories.png) | ![Checkout](screenshots/checkout.png) | ![User Profile](screenshots/userprofile.png) |
 
 ---
 
